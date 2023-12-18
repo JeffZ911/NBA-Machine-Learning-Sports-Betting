@@ -17,4 +17,3 @@ def get_output():
             return output
         except UnicodeDecodeError:
             print(f"Failed to decode with {encoding}")
-            print("hello world")
