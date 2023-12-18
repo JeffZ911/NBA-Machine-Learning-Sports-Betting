@@ -2,22 +2,22 @@ Winning Team,Model,Win Probability (%)
 Cleveland Cavaliers,XGBoost,52.6
 LA Clippers,XGBoost,52.0
 ers,XGBoost,79.5
+Atlanta Hawks,XGBoost,64.8
 Toronto Raptors,XGBoost,63.9
 Minnesota Timberwolves,XGBoost,57.7
-Atlanta Hawks,XGBoost,64.8
 Oklahoma City Thunder,XGBoost,77.7
-Brooklyn Nets,XGBoost,69.2
 Denver Nuggets,XGBoost,61.0
+Brooklyn Nets,XGBoost,69.2
 Sacramento Kings,XGBoost,74.1
 Los Angeles Lakers,XGBoost,55.5
 Cleveland Cavaliers,Neural Network,50.8
 LA Clippers,Neural Network,50.8
 ers,Neural Network,79.0
+Atlanta Hawks,Neural Network,71.8
 Toronto Raptors,Neural Network,62.7
 Minnesota Timberwolves,Neural Network,55.2
-Atlanta Hawks,Neural Network,71.8
 Oklahoma City Thunder,Neural Network,79.6
-Brooklyn Nets,Neural Network,58.9
 Denver Nuggets,Neural Network,58.6
+Brooklyn Nets,Neural Network,58.9
 Sacramento Kings,Neural Network,74.7
 Los Angeles Lakers,Neural Network,61.7

@@ -19,7 +19,7 @@ def main():
     Totalover.main(record)
     WinRate.main(record)
     GameScoreRecord.main(date, Tdate)
-    allscores.main()
+    # allscores.main()
 
 
 if __name__ == "__main__":
