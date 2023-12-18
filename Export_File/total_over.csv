@@ -1,0 +1,26 @@
+Model,Team1,Team2,Over_Under,Value
+XGBoost,"---------------
+Cleveland Cavaliers (52.6%)",Houston Rockets,OVER,214
+XGBoost,Indiana Pacers,LA Clippers (52.0%),UNDER,241
+XGBoost,Philadelphia 76ers (79.5%),Chicago Bulls,OVER,228.5
+XGBoost,Toronto Raptors (63.9%),Charlotte Hornets,UNDER,226.5
+XGBoost,Miami Heat,Minnesota Timberwolves (57.7%),OVER,219
+XGBoost,Atlanta Hawks (64.8%),Detroit Pistons,UNDER,244
+XGBoost,Oklahoma City Thunder (77.7%),Memphis Grizzlies,OVER,228
+XGBoost,Utah Jazz,Brooklyn Nets (69.2%),OVER,232
+XGBoost,Denver Nuggets (61.0%),Dallas Mavericks,UNDER,238.5
+XGBoost,Sacramento Kings (74.1%),Washington Wizards,UNDER,245
+XGBoost,Los Angeles Lakers (55.5%),New York Knicks,UNDER,227.5
+Neural Network,"0s
+1/1 [==============================] - 0s 30ms/step
+Cleveland Cavaliers (50.8%)",Houston Rockets,OVER,214
+Neural Network,Indiana Pacers,LA Clippers (50.8%),UNDER,241
+Neural Network,Philadelphia 76ers (79.0%),Chicago Bulls,UNDER,228.5
+Neural Network,Toronto Raptors (62.7%),Charlotte Hornets,OVER,226.5
+Neural Network,Miami Heat,Minnesota Timberwolves (55.2%),UNDER,219
+Neural Network,Atlanta Hawks (71.8%),Detroit Pistons,UNDER,244
+Neural Network,Oklahoma City Thunder (79.6%),Memphis Grizzlies,UNDER,228
+Neural Network,Utah Jazz,Brooklyn Nets (58.9%),OVER,232
+Neural Network,Denver Nuggets (58.6%),Dallas Mavericks,UNDER,238.5
+Neural Network,Sacramento Kings (74.7%),Washington Wizards,UNDER,245
+Neural Network,Los Angeles Lakers (61.7%),New York Knicks,UNDER,227.5
